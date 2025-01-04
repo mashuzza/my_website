@@ -6,8 +6,6 @@ links:
     url: "https://www.linkedin.com/in/masha-logan/"
   - label: GitHub
     url: "https://github.com/mashuzza"
-  - label: Email
-    url: "mailto:email@email.com"
 output:
   postcards::jolla
 ---
