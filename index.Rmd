@@ -1,0 +1,15 @@
+---
+title: "Masha Logan"
+image: "masha.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/masha-logan/"
+  - label: GitHub
+    url: "https://github.com/mashuzza"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+I’m a classically trained Statistician living in the Pacific Northwest. I currently work on the Digital Analytics team at a global shoe company, using data to optimize customer experience. I love corgis, hiking, wine, and well-set-up experiments.
